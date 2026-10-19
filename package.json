@@ -1,0 +1,13 @@
+{
+  "name": "notes-api",
+  "version": "1.0.0",
+  "description": "A beginner-friendly in-memory Notes CRUD API",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
